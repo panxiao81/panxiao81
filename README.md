@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# Pan Xiao (panxiao81)
 
-You can use the [editor on GitHub](https://github.com/panxiao81/panxiao81/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Use Chinese (Native), English (B-1 Level)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+可以接受中文 （母语），English （B-1 水平）
 
-### Markdown
+YAML engineer, Open Source fan, HomeLaber.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+一个 YAML 工程师，开源爱好者，HomeLab 玩家。
 
-```markdown
-Syntax highlighted code block
+Wa-ku, Wa-ku...
 
-# Header 1
-## Header 2
-### Header 3
+![Waku](waku.jpg)
 
-- Bulleted
-- List
+## Skills （技能）
 
-1. Numbered
-2. List
+### I Could Do... （我能做）
 
-**Bold** and _Italic_ and `Code` text
+- Linux
+- Docker / Kubernetes
+- Ansible
+- HTML / CSS
+- Python / Golang
+- And pritty good learning ability
 
-[Link](url) and ![Image](src)
-```
+And some others
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+还有些其他不相干的
 
-### Jekyll Themes
+- Music Engineering （音乐工程）
+- Playing synth keyboard （演奏合成器键盘）
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/panxiao81/panxiao81/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Still Learning （学习中）
 
-### Support or Contact
+- Full-stack Web Development （全栈 Web 应用开发）
+- DevOps （运维开发）
+- Audio Plug-in Development （音频插件开发）
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Link （链接）
+
+[Blog (Chinese Only)](https://www.ddupan.top/)
+
+[博客（中文）](https://www.ddupan.top/)
