@@ -10,7 +10,7 @@ YAML engineer, Open Source fan, HomeLaber.
 
 Wa-ku, Wa-ku...
 
-![Waku](waku.jpg)
+<img src="waku.jpg" width="200">
 
 ## Skills （技能）
 
