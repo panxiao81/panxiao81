@@ -1,40 +1,36 @@
-# Pan Xiao (panxiao81)
+# Pan Xiao (panxiao81) ハン
 
-Use Chinese (Native), English (B-1 Level)
+Use Chinese (Native), English (B-1 Level), Japanese (JLPT N2, B-2 Level)
 
-可以接受中文 （母语），English （B-1 水平）
+可以接受中文 （母语），English （B-1 水平）, 日语 （JLPT N2)
 
-YAML engineer, Open Source fan, HomeLaber.
-
-一个 YAML 工程师，开源爱好者，HomeLab 玩家。
+中国語（母国語）、英語、日本語（JLPT N2)全部使えます。
 
 Wa-ku, Wa-ku...
 
 <img src="waku.jpg" width="200">
 
-## Skills （技能）
+## Skills
 
-### I Could Do... （我能做）
+### I Could Do...
 
 - Linux
 - Docker / Kubernetes
 - Ansible
 - HTML / CSS
-- Python / Golang
+- Python / Golang / Java
+- DevOps
+- Full-stack Web Development
 - And pritty good learning ability
 
 And some others
 
-还有些其他不相干的
+- Music Engineering
+- Playing synth keyboard
 
-- Music Engineering （音乐工程）
-- Playing synth keyboard （演奏合成器键盘）
+### Still Learning
 
-### Still Learning （学习中）
-
-- Full-stack Web Development （全栈 Web 应用开发）
-- DevOps （运维开发）
-- Audio Plug-in Development （音频插件开发）
+- AI
 
 ## Link （链接）
 
